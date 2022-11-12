@@ -1,0 +1,18 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+.seachbar{
+    width: 50%;
+    height: auto;
+    margin:0 auto;
+    text-align: center;
+    padding-top: 2rem;
+}
+.seachbar input{
+    margin: 30px 0;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
